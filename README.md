@@ -7,4 +7,4 @@ Data visualization was performed in order to make inferences from the data and i
 applicants.
 
 ROC curves were plotted for the four algorithms and based on accuracy and ROC curve, Logistic Regression was concluded to be the preferred algorithm among 
-the four algorithms applied. 
+the four algorithms applied with 82% accuracy. 
